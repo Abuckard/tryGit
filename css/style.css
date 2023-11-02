@@ -7,6 +7,23 @@ html body {
     background-color: antiquewhite;
     padding: 1rem;
 }
+.Head1 {
+    padding-right: 5px;
+}
+.lista {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: end;
+    color: rgb(85, 85, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+li {
+    margin: 20px;
+}
+list-style-type:none
  
 
 .mainColors {
